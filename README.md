@@ -21,4 +21,12 @@
 File to run:
 
     train/main.py
-    
+  
+  
+## Additional Information
+
+Parameters can be changes in:
+
+        configs/config_improved_model.py 
+        
+
